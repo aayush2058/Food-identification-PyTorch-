@@ -37,7 +37,7 @@ def pred_and_plot_image(
     """
 
     # Open image
-    img = Image.open(image_path)
+    img = Image.open(image_path).convert('RGB')
 
     # Create transformation for image (if one doesn't exist)
     if transform is not None:
