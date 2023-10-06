@@ -1,5 +1,5 @@
 # Food-identification-PyTorch-
-This repository contains notebooks and extra resources used with in that notebook using EfficientNetB0 model to make predictions on 3 food items (pizza, steak and sushi)
+This repository contains notebooks and extra resources used with in that notebook using EfficientNetB0, EfficientNetB2 and Vision Transformer model (paper replication) to make predictions on 3 food items (pizza, steak and sushi)
 
 ## Data
 Train and test sets are stored within **data** directory containing overall 1000 images.
